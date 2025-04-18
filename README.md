@@ -1,6 +1,3 @@
-Sure! Here's a detailed and clean **README.md** file for a Java-based Hibernate project that covers **HQL CRUD operations**, **joins**, **aggregation functions**, and **pagination**.
-
----
 
 ```markdown
 # 🛠️ HQL Operations in Hibernate
