@@ -1,5 +1,4 @@
 
-```markdown
 # 🛠️ HQL Operations in Hibernate
 
 This project demonstrates the use of **Hibernate Query Language (HQL)** in a Java application. It covers complete **CRUD operations**, **joins**, **aggregation functions**, and **pagination** using HQL to interact with a relational database.
